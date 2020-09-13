@@ -1,0 +1,4 @@
+Los siguientes ejercicios fueron realizados para comprender la manera
+en la que se puede trabajar con el microFramework flask y así ir probando
+distintas ideas para generar proyectos mas grandes en conjunto a los 
+conocimientos adquiridos
